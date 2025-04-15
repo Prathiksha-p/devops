@@ -1,2 +1,5 @@
 # devops
- ```bash ho
+```
+docker ps -a
+```
+ccc
